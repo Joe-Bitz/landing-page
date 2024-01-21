@@ -209,3 +209,13 @@ button {
     color: white;
     
 }
+
+/*styles the footer*/
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    height: 50px;
+    color: white;
+}
