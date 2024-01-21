@@ -146,3 +146,27 @@ button{
     border-radius: 10px;
 }
 
+/*styles the third section of the website*/
+.section3{
+   display: flex;
+    background-color: #E5E7EB;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.insp-quote{
+    padding: 0 540px;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 500px:
+}   
+.sig  {
+    display: flex;
+    justify-content: flex-end;
+    
+}
